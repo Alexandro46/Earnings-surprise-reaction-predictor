@@ -300,10 +300,6 @@ This project follows industry best practices:
 
 Educational/Research use. Not financial advice.
 
-## Author
-
-Data Science Portfolio Project - Earnings Prediction System
-
 ---
 
 ## Questions?
